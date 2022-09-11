@@ -21,8 +21,8 @@ The challenge will contain a few core features most applications have. That incl
 * Let your creativity run wild and add a feature not mentioned above that you think would be useful for the application
 
 ## Developer
-Name: `<your name>` <br/>
-Email: `<your email>`<br/>
+Name: Dipjyoti Biswas <br/>
+Email: djbiswasbd@gmail.com<br/>
 
 ## Instructions (Docker required)
 ### Cloning the repository
@@ -78,10 +78,8 @@ Email: `<your email>`<br/>
    
 5. (IMPORTANT) Edit the README.md file and add your name and email.
     ```diff
-    - Name: `<your name>` <br/>
-    - Email: `<your email>` <br/>
-    + Name: Jhon Doe <br/>
-    + Email: jhondoe@exmaple.com <br/>
+    + Name: Dipjyoti Biswas <br/>
+    + Email: djbiswasbd@gmail.com <br/>
     ```
    
 6. (IMPORTANT) Submit your first commit with just the changes to the README.md file. Must be done before starting the assignment.
