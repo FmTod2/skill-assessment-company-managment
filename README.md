@@ -7,6 +7,7 @@
 The challenge will contain a few core features most applications have. That includes basic MVC, exposing an API, CRM like features, and finally tests.
 
 ### The application should have the following features:
+* Frontend should be done with Vue.js and optionally Inertia.js
 * Basic Laravel Auth: ability to log in as administrator
 * Use database seeds to create first user with email admin@admin.com and password “password”
 * CRUD functionality (Create / Read / Update / Delete) for two menu items: Companies and Employees.
@@ -17,7 +18,7 @@ The challenge will contain a few core features most applications have. That incl
 * Use basic Laravel resource controllers with default methods – index, create, store etc.
 * Use Laravel’s validation function, using Request classes
 * Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
-* Expose and API to list all companies and employees
+* Expose an API to list all companies and employees
 * Let your creativity run wild and add a feature not mentioned above that you think would be useful for the application
 
 ## Developer
